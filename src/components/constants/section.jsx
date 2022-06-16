@@ -1,0 +1,1 @@
+export const section = ['MATHEMATIQUE', 'SCIENCES', 'TECHNIQUE', 'ECONOMIE', 'INFORMATIQUE', 'LETTRE', 'SPORT'];
